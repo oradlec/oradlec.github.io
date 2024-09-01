@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://oradlec.github.io/sitemap.html.gz
+Sitemap: https://oradlec.github.io/app/sitemap.html.gz
+Sitemap: https://oradlec.github.io/assets/sitemap.html.gz
+Sitemap: https://oradlec.github.io/css/sitemap.html.gz
+Sitemap: https://oradlec.github.io/includes/sitemap.html.gz
+Sitemap: https://oradlec.github.io/item/sitemap.html.gz
+Sitemap: https://oradlec.github.io/src/sitemap.html.gz
